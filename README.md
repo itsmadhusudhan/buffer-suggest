@@ -1,27 +1,19 @@
-# React + Vite + CRXJS
+# Buffer Suggest
 
-This template helps you quickly start developing Chrome extensions with React, TypeScript and Vite. It includes the CRXJS Vite plugin for seamless Chrome extension development.
-
-## Features
-
-- React with TypeScript
-- TypeScript support
-- Vite build tool
-- CRXJS Vite plugin integration
-- Chrome extension manifest configuration
+Extension add functionality to save selected text in the webpage to buffer ideas bucket.
 
 ## Quick Start
 
 1. Install dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 2. Start development server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 3. Open Chrome and navigate to `chrome://extensions/`, enable "Developer mode", and load the unpacked extension from the `dist` directory.
@@ -29,7 +21,7 @@ npm run dev
 4. Build for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ## Project Structure

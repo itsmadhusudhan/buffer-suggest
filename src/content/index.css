@@ -1,0 +1,23 @@
+.ideaBtn{
+  position: fixed;
+  padding: 4px 8px;
+  font-size: 14px;
+	border: none;
+	border-radius: 4px;
+	background-color: oklch(0.62 0.19 259.76);
+	color: oklch(1.00 0 0);
+	cursor: pointer;
+	z-index: 10;
+}
+
+.toast{
+  position: fixed;
+	top: 8px;
+	right: 8px;
+  padding: 4px 8px;
+	border-radius: 4px;
+  font-size: 14px;
+	background-color: oklch(72.3% 0.219 149.579);
+	color: oklch(1.00 0 0);
+	z-index: 9999;
+}
