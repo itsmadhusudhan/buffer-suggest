@@ -2,6 +2,9 @@
 
 Extension add functionality to save selected text in the webpage to buffer ideas bucket.
 
+## Demo
+[Watch Demo](https://drive.google.com/file/d/1IeJxiStwUn9knUv40HE_ydx6S2aWV07G/view?usp=sharing).
+
 ## Quick Start
 
 1. Install dependencies:
